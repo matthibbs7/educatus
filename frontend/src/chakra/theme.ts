@@ -8,7 +8,7 @@ export const theme = extendTheme({
         }
     },
     fonts: {
-        body: `"Nunito Sans", sans-serif`,
+        body: `"Nunito Sans"`,
     },
     styles: {
         global: () => ({
